@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/NickCorreaGarci" target="blank"><img src="https://img.shields.io/twitter/follow/NickCorreaGarci?logo=twitter&style=for-the-badge" alt="NickCorreaGarci" /></a> </p>
 
-- 🌱 I’m currently learning **Angular** && **Python** 
+- 🌱 I’m currently learning **React** && **Vue** 
 
 - 📫 How to reach me **nickcorreagarcia@gmail.com**
 
